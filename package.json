@@ -22,6 +22,6 @@
     "eslint": "^6.7.1"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "@rodolfocunha:registry": "https://npm.pkg.github.com"
   }
 }
